@@ -1,3 +1,7 @@
+# Name: Pankaj
+# UID: 24BCY70020
+# Section: 24BCY-2(A)NTPP
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
